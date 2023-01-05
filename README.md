@@ -1,4 +1,4 @@
-![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/688926/retina_1708x683_0718_Which_Framework_Lina_Newsletter-70f8619445119a8b09a7791f8ea288b2.png)
+![MasterHead](https://binaryinformatics.com/wp-content/uploads/2019/01/MERN-Stack-Development-and-Consulting-Services.jpg)
 <h1 align="center">Hi 👋, I'm Farrukh Juraqulov</h1>
 <h3 align="center">An ambitious and passionated Front-End Developer</h3>
 
