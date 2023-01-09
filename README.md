@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/4609567.jpg)
+![MasterHead](https://binaryinformatics.com/wp-content/uploads/2019/01/MERN-Stack-Development-and-Consulting-Services.jpg)
 <h1 align="center">Hi 👋, I'm Farrukh Juraqulov</h1>
 <h3 align="center">An ambitious and passionated Front-End Developer</h3>
 
