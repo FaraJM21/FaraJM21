@@ -1,4 +1,4 @@
-# 💫 About Me:                         [![](https://visitcount.itsvg.in/api?id=FaraJM21&icon=2&color=0)](https://visitcount.itsvg.in)
+# 💫 About Me:                        ![Profile views counter](https://komarev.com/ghpvc/?username=FaraJM21&&style=flat-square)  
 🌱 I’m currently learning Node JS, Express Js, Mango DB<br><br>👨‍💻 All of my projects are available at https://farrukhspersonalportfolio.netlify.app/<br><br>📫 How to reach me farruxrihsiyev@gmail.com<br><br>⚡ Fun fact I love learning new technoligies and practice on my own* <br/>
 
 
